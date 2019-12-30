@@ -9,7 +9,7 @@ fclose($handle);
 print "
 <html>
 <body>
-<title>DIY Hacking</title>
+<title>Home automation</title>
 <style type=text/css>
 h1{
 	padding-left: 300px;
@@ -20,7 +20,7 @@ h2{
 	left: 450px;
 }
 </style>
-<h1>DIY Hacking - Internet of Things Implementation</h2>
+<h1>Internet of Things Implementation</h2>
 <h2>The Device has been Turned ON </h2>
 </body>
 </html>
@@ -45,7 +45,7 @@ h2{
 	left: 450px;
 }
 </style>
-<h1>DIY Hacking - Internet of Things Implementation</h2>
+<h1>Internet of Things Implementation</h2>
 <h2>The Device has been Turned OFF </h2>
 </body>
 </html>
